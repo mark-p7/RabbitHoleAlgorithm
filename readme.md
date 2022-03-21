@@ -4,7 +4,7 @@ Mark De Guzman (Mark-p7)
 Credits: Ben Awad
 <br>
 Original video idea: https://youtu.be/XEt09iK8IXs?t=1254
-***
+
 There are 100 holes ranging from 0 to 99
 <br>
 In one of these holes resides a bunny that likes jumping around.
@@ -18,7 +18,6 @@ The goal of this algorithm is to find the bunny in one of these holes.
 4. The bunny can start at any random number
 
 ## Solution
-***
 Solution to this algorithm is presented neatly in the RabbitHole.java file. With docstrings and a O(n) time complexity.
 <br><br>
 For those who would like to try this problem out, there is a Rabbit.java file that is available that doesn't contain any of the answer.
