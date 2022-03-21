@@ -15,7 +15,7 @@ The goal of this algorithm is to find the bunny in one of these holes.
 1. Everytime the algorithm checks a hole, the bunny will always move by 1 hole
 2. The bunny can only move to adjacent holes, eg: if the bunny is in hole 2, it can only move to 1 or 3
 3. The bunny can only move between the ranges of 0 - 99
-4. The bunny can start at any random number
+4. The bunny can start at any random number between the ranges of 0 - 99
 
 ## Solution
 Solution to this algorithm is presented neatly in the RabbitHole.java file. With docstrings and a O(n) time complexity.
